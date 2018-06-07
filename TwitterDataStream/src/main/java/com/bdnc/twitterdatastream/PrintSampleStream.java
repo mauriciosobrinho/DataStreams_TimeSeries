@@ -12,7 +12,7 @@ import twitter4j.conf.ConfigurationBuilder;
 
 /**
  *
- * @author jjmacagnan
+ * @author mlsobrinho
  */
 public class PrintSampleStream {
 

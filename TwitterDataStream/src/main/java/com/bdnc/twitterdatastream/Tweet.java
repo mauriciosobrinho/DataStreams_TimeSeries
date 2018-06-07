@@ -7,7 +7,7 @@ package com.bdnc.twitterdatastream;
 
 /**
  *
- * @author jjmacagnan
+ * @author mlsobrinho
  */
 public class Tweet {
 

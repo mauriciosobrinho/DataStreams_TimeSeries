@@ -12,7 +12,7 @@ import twitter4j.TwitterException;
 
 /**
  *
- * @author jjmacagnan
+ * @author mlsobrinho
  */
 public class Principal {
 

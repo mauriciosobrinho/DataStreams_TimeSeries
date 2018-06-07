@@ -15,7 +15,7 @@ import twitter4j.auth.AccessToken;
 
 /**
  *
- * @author jjmacagnan
+ * @author mlsobrinho
  */
 public class TwitterUtils {
 
